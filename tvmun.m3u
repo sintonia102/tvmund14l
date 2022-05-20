@@ -27,29 +27,34 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647019524/ei/p
 https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c996a630-c471-4c38-8c04-43756fed1dbb:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
 
 
-UCRANIA
+OTROS
 
 
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/01/uatv-100x70.png" group-title="UCRANIA", UA TV
-https://ua-tv.cdn-01.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8?_=1646881444
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="OTROS", SINTONIA TV
+https://live.admefy.com/live/default/awake_yellow_8a2a2.m3u8
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/11-100x70.png" group-title="UCRANIA", 1+1 Internacional
-https://live-k2302-kbp.1plus1.video/live/1647230400/VFfB8woBhYpNBsCuBwqRCw/184723/smil:184723.smil/chunklist_b4628000.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/22-100x70.png" group-title="UCRANIA", 2+2 TV Ucrania
-https://live-k2302-kbp.1plus1.video/live/1647230400/WyzzPCdqV3TGhASQdHMo0Q/187534/smil:187534.smil/chunklist_b4628000.m3u8
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSMiFEb4zNpzIPHkt2_FKOwP1ogTdhTR29IriLmxC4=s48-c-k-c0x00ffffff-no-rj" group-title="UCRANIA", Espreso.TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647019677/ei/PTIrYpizJKKG-LAPzZqomA8/ip/190.11.192.22/id/d6mqOHJqUW8.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgScrtq59zf82UHQoa2WfEmJCI3DM1A7HLK7f5xIRQhv0CIQDAv1FxxMR93luoZSSMkzLRl0qFUAv8kiHDc8951ijLWQ%3D%3D/file/index.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/02/34-%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB-en-directo-Online-100x70.png" group-title="UCRANIA", 34 телеканал
-https://streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8
+
 
 
 ---- SERIES -----
