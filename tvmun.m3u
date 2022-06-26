@@ -166,6 +166,64 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
 
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", EL TRECE
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TELEFE
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", EL NUEVE
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TELEMAX
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", MUSIC TOP
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", VH1
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/VH1/SA_SAGEMCOM/VH1.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", MUCH MUSIC
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", CM
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TYC SPORTS
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", FOX Sports Premium
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Fox Sports
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Fox Sports 2
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports2HD/SA_SAGEMCOM/FoxSports2HD.m3u8
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Fox Sports 3
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.m3u8
+
+
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
 
 
@@ -175,14 +233,7 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM
 
 
 
-
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
-
-
-
-
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
-
 
 
 
@@ -190,21 +241,15 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM
 
 
 
-
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
-
-
-
-
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
-
-
 
 
 
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
 
 
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", -----
 
 
 
