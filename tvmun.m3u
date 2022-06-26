@@ -40,11 +40,23 @@ https://live.admefy.com/live/default/awake_yellow_8a2a2.m3u8
 
 PREMIUMMM
 
-
+HBO Family
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="PREMIUMMM", HBO Family
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Family/SA_SAGEMCOM/HBO_Family.m3u8
 
+HBO 
+#EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2020/11/HBO-logo.png" group-title="PREMIUMMM", HBO
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
+
+
+
+
+
+
+
+
+--------------------------------
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSMiFEb4zNpzIPHkt2_FKOwP1ogTdhTR29IriLmxC4=s48-c-k-c0x00ffffff-no-rj" group-title="UCRANIA", Espreso.TV
 
