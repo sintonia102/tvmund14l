@@ -72,12 +72,12 @@ https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Mundi/SA_SAGEMCOM/HBO_Mundi.
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/HBO_Extreme/SA_SAGEMCOM/HBO_Extreme.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="PREMIUMMM", Star Channels
+#EXTINF:-1 tvg-logo="https://mundoejecutivo.com.mx/wp-content/uploads/2021/02/star.png" group-title="PREMIUMMM", Star Channels
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/Star_Cinema_2020.svg" group-title="PREMIUMMM", Star Cinema
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_12/large.StarCinema_Logo2021_FondoOscuro.png.d9d97a761b14a0c4ff5d33ca1ba17a6a.png" group-title="PREMIUMMM", Star Cinema
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 
@@ -95,98 +95,98 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Discovery
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/04/discovery-channel-logo-3-1.png" group-title="PREMIUMMM", Discovery
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Turbo Discovery
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="PREMIUMMM", Turbo Discovery
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", History Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1952px-History_Logo.svg.png" group-title="PREMIUMMM", History Channel
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", H2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG" group-title="PREMIUMMM", H2
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Natgeo wild
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nat_Geo_Wild_logo.png/1200px-Nat_Geo_Wild_logo.png" group-title="PREMIUMMM", Natgeo wild
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Natgeo
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-National-Geographic.png" group-title="PREMIUMMM", Natgeo
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Warner
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/11/Warner-Bros-Logo.png" group-title="PREMIUMMM", Warner
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Sony
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="PREMIUMMM", Sony
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", AXN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png" group-title="PREMIUMMM", AXN
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Cinecanal
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="PREMIUMMM", Cinecanal
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Cinemax
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/1280px-Cinemax.svg.png" group-title="PREMIUMMM", Cinemax
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Cinemax/SA_SAGEMCOM/Cinemax.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Paramount
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/Paramount%2B_logo.png" group-title="PREMIUMMM", Paramount
 https://edge-live16-sl.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TNT
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1000px-TNT_Logo_2016.svg.png" group-title="PREMIUMMM", TNT
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TNT Series
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/TNT_Series.png" group-title="PREMIUMMM", TNT Series
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TNTSeries/SA_SAGEMCOM/TNTSeries.m3u8
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Universal Studios
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Universal-Pictures-Logo.svg" group-title="PREMIUMMM", Universal Studios
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Universal_Channel_HD/SA_SAGEMCOM/Universal_Channel_HD.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", EL TRECE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="PREMIUMMM", EL TRECE
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/ArtearHD/SA_SAGEMCOM/ArtearHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TELEFE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="PREMIUMMM", TELEFE
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", EL NUEVE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="PREMIUMMM", EL NUEVE
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TELEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="PREMIUMMM", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", MUSIC TOP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="PREMIUMMM", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 
@@ -196,20 +196,20 @@ https://edge-live16-sl.cvattv.com.ar/live/c7eds/VH1/SA_SAGEMCOM/VH1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", MUCH MUSIC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/1200px-MuchMusicLA_%282007%29.svg.png" group-title="PREMIUMMM", MUCH MUSIC
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", CM
+#EXTINF:-1 tvg-logo="https://mareatvcable.com/wp-content/themes/marea/img/canales/77-logocm.png" group-title="PREMIUMMM", CM
 https://edge-live16-sl.cvattv.com.ar/live/c6eds/CM/SA_SAGEMCOM/CM.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TYC SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="PREMIUMMM", TYC SPORTS
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", FOX Sports Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="PREMIUMMM", FOX Sports Premium
 https://edge-live16-sl.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 
