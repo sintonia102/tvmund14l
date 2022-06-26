@@ -82,8 +82,67 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Star Comedy
-https://edge3-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", H&H
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", TLC
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/TLC/SA_SAGEMCOM/TLC.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Investigación Discovery
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Discovery
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/DiscoveryHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Turbo Discovery
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/DiscoveryTurbo/SA_SAGEMCOM/DiscoveryTurbo.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", History Channel
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", H2
+https://edge-live16-sl.cvattv.com.ar/live/c6eds/History_2/SA_SAGEMCOM/History_2.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Natgeo wild
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoWildHD/SA_SAGEMCOM/NatGeoWildHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Natgeo
+https://edge-live16-sl.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Warner
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/WarnerHD/SA_SAGEMCOM/WarnerHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", Sony
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", AXN
+https://edge-live16-sl.cvattv.com.ar/live/c7eds/AXNHD/SA_SAGEMCOM/AXNHD.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
+
+
 
 
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
@@ -94,18 +153,6 @@ https://edge3-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
-
-
-
-
-
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
-
-
-
-
 #EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
 
 
@@ -118,7 +165,6 @@ https://edge3-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="PREMIUMMM", ---------
 
 
 
