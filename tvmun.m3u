@@ -30,20 +30,20 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031332/ei/w
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e4cfY82VFcXswATGhKqIBA/ip/200.43.59.236/id/H3n0j4i3s9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANKopi4vs-GhyFHHXZUVlTx9DUr0aZRLy4P0oq-inLVxAiEAjRITfAcFW5S66L5C-bdELizBPlfwPVVPEWIHIw7M8SQ%3D/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://www.youtube.com/channel/UCpyKmMdb5fbDwKnCyjoXtng" group-title="NOTICIAS", Satiscandy ASMR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Magic_Kids_1995_1.svg/revision/latest?cb=20210525183254&path-prefix=es" group-title="NOTICIAS", Satiscandy ASMR
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032484/ei/RIgfY_G-BuiU-LAPkKejmAQ/ip/200.43.59.236/id/fxENaRiJO6Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF6BQBXwscuifuXQ3hsUbUbCYX0WqS8hxBumMNslRfmQCIDpif-TwTPLEz4olFERY3kBeAvTUFsxsqwRXCnDu6v07/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
+#EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/af37ce7e-6778-42ed-9fd4-c679daadce45.png" group-title="NOTICIAS", AIRE DE SANTA FE
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032924/ei/_IkfY5v5Fc_WwwTu2a-wAQ/ip/200.43.59.236/id/U2Mij4K2wXg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALR-AWDBpOSjpOQgCHZ7lEblTzPYzhitb2V5ewsf5U7VAiEAhE1F_qjEckb-kHr7zn2KfCnkeeCFSqoRJ3X9a59oBBw%3D/file/index.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="NOTICIAS", FRANCE 24 Español
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033078/ei/loofY8_0EpGnxgT92qawCQ/ip/200.43.59.236/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKMzObhDHPOJ0OFjRTG6d9uddG8XOIQVJh49DPBW2QHUCIACLMRdq-sTjqx4274_TG0Rlovwgis3lo67WRpS7d1PY/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
 
-
-
-#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
-
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/fae6c7d712f9f97fca54fd29bf34aed1.jpg" group-title="NOTICIAS", Radio Rivadavia am630
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033229/ei/LYsfY4XDMsWCwgSM4ZDwAQ/ip/200.43.59.236/id/RtcBVswLLXs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVE5o7BZmVjngfjrbuSCd-f2fyWUI9hM912JMJIub-woCIQDutqU0mzc-IZMtL_K6Oh1giHhkt2HAsb0ZkMUZLmDMAg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
 
