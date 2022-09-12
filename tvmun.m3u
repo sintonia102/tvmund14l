@@ -77,11 +77,11 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEoIMSOSUT17w1TmE1uSgNNkp
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24 BS. AS.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663046360/ei/eL4fY8iuJIe-wATHrKSIAQ/ip/200.43.59.236/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeMPp8RSS-FWF2jFaIHlWLFIh16h503kxBwYuJz8FRvYCIQC6LGZVzbMsLBgiK4ffYDksxBaicY2AMpgY-doVdPv_Ig%3D%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS HD
 https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/1663111544144/srcIp/200.43.59.236/clientType/1/srcAg/CHROME_ANDROID/mid/4489154600630/2276519054006_high/index.m3u8
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS - SD
+https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/1663111544144/srcIp/200.43.59.236/clientType/1/srcAg/CHROME_ANDROID/mid/4489154600630/2276519054006_low/index.m3u8
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
