@@ -81,7 +81,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663046360/ei/e
 https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/1663111544144/srcIp/200.43.59.236/clientType/1/srcAg/CHROME_ANDROID/mid/4489154600630/2276519054006_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS - SD
-https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/1663111544144/srcIp/200.43.59.236/clientType/1/srcAg/CHROME_ANDROID/mid/4489154600630/2276519054006_low/index.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
