@@ -26,6 +26,30 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031191/ei/N
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="NOTICIAS", LN+
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031332/ei/w4MfY9KeOZCi4dUPpeOfsAY/ip/200.43.59.236/id/HlhZ0XZHHaw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM6Y6UQn-9CZax8cGnnDuFe59UQAZZLidnj_xJFJjVajAiEAwCdqcWPpq8Idya8DPIg_lI3RG4UBSl4D1fndal-YyXA%3D/file/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="NOTICIAS", RADIO MITRE BS. AS.
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e4cfY82VFcXswATGhKqIBA/ip/200.43.59.236/id/H3n0j4i3s9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANKopi4vs-GhyFHHXZUVlTx9DUr0aZRLy4P0oq-inLVxAiEAjRITfAcFW5S66L5C-bdELizBPlfwPVVPEWIHIw7M8SQ%3D/file/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.youtube.com/channel/UCpyKmMdb5fbDwKnCyjoXtng" group-title="NOTICIAS", Satiscandy ASMR
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032484/ei/RIgfY_G-BuiU-LAPkKejmAQ/ip/200.43.59.236/id/fxENaRiJO6Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF6BQBXwscuifuXQ3hsUbUbCYX0WqS8hxBumMNslRfmQCIDpif-TwTPLEz4olFERY3kBeAvTUFsxsqwRXCnDu6v07/file/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
+
+
+
+#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
+
+
+
+#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
+
+
+#EXTINF:-1 tvg-logo="-----" group-title="NOTICIAS", --
+
+
+
+
 OTROS
 
 
