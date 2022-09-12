@@ -20,12 +20,11 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/strea
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="NOTICIAS", TN 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1647019524/ei/pDErYsy-NYGIxQT77ZKYBg/ip/190.11.192.22/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAI2FwrLwWuHkc0F3yLhvobi17zQpg3JMJ1QJ2saQ_6CCAiBczC9z1_45PPGHwm5zAlOi5NaPG7NzbUlFvfM3D9bxsw%3D%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031191/ei/N4MfY5ThLozkwQTqm5zwCA/ip/200.43.59.236/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeRw_QyIBZ-zEzkbGs514Jvb5uZoDjdZPpMIdY-6YpUUCIGzmeHeY4yb69aQ3kbPIdJkCaLqLfysSnSVaF7KcqREm/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="------------" group-title="NOTICIAS", AMERICA
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/c996a630-c471-4c38-8c04-43756fed1dbb:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="NOTICIAS", LN+
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031332/ei/w4MfY9KeOZCi4dUPpeOfsAY/ip/200.43.59.236/id/HlhZ0XZHHaw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM6Y6UQn-9CZax8cGnnDuFe59UQAZZLidnj_xJFJjVajAiEAwCdqcWPpq8Idya8DPIg_lI3RG4UBSl4D1fndal-YyXA%3D/file/index.m3u8
 
 OTROS
 
