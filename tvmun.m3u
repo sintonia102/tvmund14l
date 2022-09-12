@@ -5,16 +5,6 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="NOTICIAS", CGTN CHINA
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png/640px-Logotipo_de_CNN_en_Espa%C3%B1ol_%281997-2010%29.png" group-title="NOTICIAS", CNN ESPAÑOL
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CrQFuAgwD6Ot6_Qvn_znqitk8c9KCrEuhW8nTm1jLKoilh22CIE6pKpWhJTJH5wMGylhYNrvdAsx4l3fuy17OI2O1e9HXp717BZuNgyVBGiN2eaVmI1OZWvo-x_HeY2jSDxqfMO1s0j2eDD8NB0d4RExNBppFNt9t9XjCwLdajjVGFClX2_RpuQMuH1H0iYJU3LCSw7WZcli_O5sDbQQBXxCX1iaOhoInHmdpX4L5c4ao6OXRnCFD29K19vAuwu_XIMzVM6zlN6TpKGeXdcE_OrW4DtkTtFJK5PHXZbVTKsxHHcc2zXvIWqvUENNhbEuewvIVgFACLlr5V02rsweQIoeoHoZlzkkSLo_Ghj-L-WbSO6Xv5kM3KqAj385phBmd5Zzlw94QBMBLliU5QldhBAOHjcWxmStTk8zdOA2Qz757JbRahDkKc77ioBWOjyfxUiTc2jKhWhaKLamS7TSNC7FqrjQa_fdTNROLtoxl4Omuv8FXnpbw5brD3eDyXi3VUjBvcD_7G7ZcG_19O4LCqkM1K1ZJ8OolW76vcUFUAO6nbaxI7qXx7_DnGrkGVcSw9Bg20GYovta1ZdSeSk51HQeWd8czWmcd_AtFNYRMutjjdGFeuJ1WYhrnqP8Ex0oXZ-Xs-AgKJTbAMre0btnKpfv8_s8oiJm2uHWbiKgwgaswFrPXpSZsr0sM8XhWesyLpqZSVp-YK0bT7zxb_l7X6obYRRP6JBkIJIVvCGoUn5DX_Qcy4NdrSNpz-S84cib3Y_XWZEy4Hwax5ulrD5p7QzlFQdzETXtV8t6ZWTl0rnU8z8yFzZpTL0Oh09U2XuXzWJXffcEUToWWsoI9hyJGH4HV0yVjASFEx_o3ube0le3IFQWKEuYmAI9ND5-7mm2zFURrs1yNaB8bKRi3_GADo2Zag1sXrIaDEJ4tTuGW-yowLHx8SABKglldS13ZXN0LTIwlwM.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://media.tvalacarta.info/canales/256x256/rtspan.png" group-title="NOTICIAS", RT RUSIA
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://imagenesntn24.canalrcn.com/ImgNtn24/asset/990X557.png" group-title="NOTICIAS", NTN24 COLOMBIA
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8NcKolxt_RPprI011N314U)/dm/3/x7w4okl/s/live-1.m3u8#cell=lnyc
-
 #EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/69dc649a7334de33bee4.png" group-title="NOTICIAS", DW ESPAÑOL ALEMANIA
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
@@ -84,8 +74,8 @@ https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/166311154
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
-
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/E40cuadWYAETF0N.png" group-title="NOTICIAS", RURAL TV
+https://cda2.alsolnet.com/elrural/live/chunklist_w932614136.m3u8
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
