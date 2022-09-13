@@ -85,8 +85,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Ct8FVVYCPP7Q2gvrs2BWr0t8nRdlnZLK2L8zCkZJvcr-WiTAMqBfgrcRvY4rdGyIdDb6_BxXtKFDXYGOGwj6bHN61sfWAndEBkfGWLTtO4_iYXUbiF7G5AoXBadhv92X3s9Of8F5xfVTSKzqPS2dy6YEpi71yXxK17mCKjeXm4JTE5csne8JlpMg4Wb3SjU1esm_fv1P9bR8FlSi3_MzIMJhMcQRKycYlexu85VPW1Nre3doRR_RHYR8oI0io_hnibp7TRVBuKpixtM0H54fMC1N0AjwyTX9sHIt1XBjStwS60QpckrCJjZHF3UJh7sDDNIAENmStip0VYPOKS01f7FzSg9sRO6z-zxJhFcRNnRZHscJpwk1KIIGYnV9MmYvDdSIboRqfQpHmgWv7lm7vlSGrjXKLX6SMRsfXV1ab_7j62Hrvzx04NOjpROmgF054hDxMcWjDfsY2MsgVDIsLnkvGDFYwA3ovVfXliSyLP0OlqrrudOvsKAjHNc_24gY6fXtp2LAZsKCW4Zujwht4Nt87p7ffA_BJF_dVonx9wDxVeJ1T0eRsc2GDXiTMRi9j0MQMXVavNaxfOwqzqktkTEf7poEzPOr-twb6reUd00Bd496o72VVNf8jshrTWSpFL7W02PKVBqlCIbp6sS9Zwwwj8XqvqgSaZkmMe1lDVPp8CnnYTjw4Dug2zTYXH3zSYyQqTrG7F2qQv5fkyQRjp7FvrsUWGH6PzmTV7azNSId_jxOkS4SJdjLQ93acYuvZuXZcyLJ4Ka2XFx4QlUxzWlpHnEwEoIFppBt83yQ-kVjOZPGpMFXhkVYzqLFZAyep6UBpm7w8oatZmMMiLQUnC7FipHOOThDYx9gKwNSh1GzETRFhowxqDerzfkzckOq8LEQmO8w_hVgDsir158pCrxfTrzQmT_nsNg5fdJzULvC_Ya-o_eqHbWMj9ZlNRex5McGueBdBDeVVa5Dh5vmxjUxGgxjN7OOqc6_DtJpe3IgASoJdXMtZWFzdC0xMIoD.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="NOTICIAS", AMERICA TV
+https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
