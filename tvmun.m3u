@@ -20,10 +20,6 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031332/ei/w
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e4cfY82VFcXswATGhKqIBA/ip/200.43.59.236/id/H3n0j4i3s9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANKopi4vs-GhyFHHXZUVlTx9DUr0aZRLy4P0oq-inLVxAiEAjRITfAcFW5S66L5C-bdELizBPlfwPVVPEWIHIw7M8SQ%3D/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/06/Magic_Kids_1995_1.svg/revision/latest?cb=20210525183254&path-prefix=es" group-title="NOTICIAS", Satiscandy ASMR
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032484/ei/RIgfY_G-BuiU-LAPkKejmAQ/ip/200.43.59.236/id/fxENaRiJO6Y.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgF6BQBXwscuifuXQ3hsUbUbCYX0WqS8hxBumMNslRfmQCIDpif-TwTPLEz4olFERY3kBeAvTUFsxsqwRXCnDu6v07/file/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/af37ce7e-6778-42ed-9fd4-c679daadce45.png" group-title="NOTICIAS", AIRE DE SANTA FE
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032924/ei/_IkfY5v5Fc_WwwTu2a-wAQ/ip/200.43.59.236/id/U2Mij4K2wXg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALR-AWDBpOSjpOQgCHZ7lEblTzPYzhitb2V5ewsf5U7VAiEAhE1F_qjEckb-kHr7zn2KfCnkeeCFSqoRJ3X9a59oBBw%3D/file/index.m3u8
 
@@ -66,9 +62,6 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEoIMSOSUT17w1TmE1uSgNNkp
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="NOTICIAS", A24 BS. AS.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663046360/ei/eL4fY8iuJIe-wATHrKSIAQ/ip/200.43.59.236/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeMPp8RSS-FWF2jFaIHlWLFIh16h503kxBwYuJz8FRvYCIQC6LGZVzbMsLBgiK4ffYDksxBaicY2AMpgY-doVdPv_Ig%3D%3D/file/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS HD
-https://vsd113.mycdn.me/hls/2276519054006.m3u8/sig/IH03PiuIUGE/expires/1663111544144/srcIp/200.43.59.236/clientType/1/srcAg/CHROME_ANDROID/mid/4489154600630/2276519054006_high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="NOTICIAS", TYC SPORTS - SD
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
