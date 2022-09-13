@@ -32,7 +32,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033078/ei/l
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033229/ei/LYsfY4XDMsWCwgSM4ZDwAQ/ip/200.43.59.236/id/RtcBVswLLXs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVE5o7BZmVjngfjrbuSCd-f2fyWUI9hM912JMJIub-woCIQDutqU0mzc-IZMtL_K6Oh1giHhkt2HAsb0ZkMUZLmDMAg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="NOTICIAS", EL DOCE TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033783/ei/V40fY5jbF46d4dUPo9ybyAo/ip/200.43.59.236/id/gBbMbqILzXU.315/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAJltJ17Wa1htfd1_bQ6NFl-5IuzquIy39ADzgpmrqh-YAiEAnxeQhJOtz4vy2Wvwxoz97gsuZ6XET4pimYsFXWGYTLU%3D/file/index.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663090209/ei/wWkgY6SKDZWC5gSLvL34AQ/ip/200.43.59.236/id/o5BQxAeICeA.26/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANtY2vU3-7Sf_efQ7N2bvAkymo-LMtY9naXNLM5MrivcAiAEHny9OKnwuKbFMvwMugLOtJt_iyPZLrBgsdO4V4Hq1Q%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="----" group-title="NOTICIAS", EL DOCE TV
+https://www.youtube.com/c/eldoce/live
+
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/640px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="NOTICIAS", TELEFE CORDOBA
 https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1663008342~exp=1663184742~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=b9c4abf3d7666ec111438298e12a850a6439f7cf8512b3f9685ea4a309b8fcb1
