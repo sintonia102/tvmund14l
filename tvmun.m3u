@@ -1,20 +1,25 @@
 
 #EXTINF:-1,
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="SEÑAL ABIERTA NACIONAL", CGTN CHINA
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CGTN_Espanol.png/640px-CGTN_Espanol.png" group-title="SEÑAL ABIERTA NACIONAL", CGTN (CHINA)
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/69dc649a7334de33bee4.png" group-title="SEÑAL ABIERTA NACIONAL", DW ESPAÑOL ALEMANIA
+#EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/69dc649a7334de33bee4.png" group-title="SEÑAL ABIERTA NACIONAL", DW ESPAÑOL (ALEMANIA)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="SEÑAL ABIERTA NACIONAL", FRANCE 24 (FRANCIA)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="SEÑAL ABIERTA NACIONAL", TN 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663031191/ei/N4MfY5ThLozkwQTqm5zwCA/ip/200.43.59.236/id/wHn1_QVoXGM.12/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgeRw_QyIBZ-zEzkbGs514Jvb5uZoDjdZPpMIdY-6YpUUCIGzmeHeY4yb69aQ3kbPIdJkCaLqLfysSnSVaF7KcqREm/file/index.m3u8
-
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", LN+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
+
+#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Río Cuarto
+https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="SEÑAL ABIERTA NACIONAL", RADIO MITRE BS. AS.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e4cfY82VFcXswATGhKqIBA/ip/200.43.59.236/id/H3n0j4i3s9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANKopi4vs-GhyFHHXZUVlTx9DUr0aZRLy4P0oq-inLVxAiEAjRITfAcFW5S66L5C-bdELizBPlfwPVVPEWIHIw7M8SQ%3D/file/index.m3u8
@@ -24,19 +29,11 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032924/ei/_IkfY5v5Fc_WwwTu2a-wAQ/ip/200.43.59.236/id/U2Mij4K2wXg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALR-AWDBpOSjpOQgCHZ7lEblTzPYzhitb2V5ewsf5U7VAiEAhE1F_qjEckb-kHr7zn2KfCnkeeCFSqoRJ3X9a59oBBw%3D/file/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="SEÑAL ABIERTA NACIONAL", FRANCE 24 Español
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033078/ei/loofY8_0EpGnxgT92qawCQ/ip/200.43.59.236/id/XDJPzMznAjU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgKMzObhDHPOJ0OFjRTG6d9uddG8XOIQVJh49DPBW2QHUCIACLMRdq-sTjqx4274_TG0Rlovwgis3lo67WRpS7d1PY/file/index.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/fae6c7d712f9f97fca54fd29bf34aed1.jpg" group-title="SEÑAL ABIERTA NACIONAL", Radio Rivadavia am630
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033229/ei/LYsfY4XDMsWCwgSM4ZDwAQ/ip/200.43.59.236/id/RtcBVswLLXs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVE5o7BZmVjngfjrbuSCd-f2fyWUI9hM912JMJIub-woCIQDutqU0mzc-IZMtL_K6Oh1giHhkt2HAsb0ZkMUZLmDMAg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="SEÑAL ABIERTA NACIONAL", EL DOCE TV
 http://free.fullspeed.tv/iptv-query?feature=emb_title&streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
-
-#EXTINF:-1 tvg-logo="----" group-title="SEÑAL ABIERTA NACIONAL", EL DOCE TV
-https://www.youtube.com/c/eldoce/live
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/640px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEFE CORDOBA
@@ -63,7 +60,7 @@ https://cvi.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 https://usher.ttvnw.net/api/channel/hls/919k_wttx.m3u8?allow_source=true&fast_bread=true&p=7214187&play_session_id=9947f5c7e1287a93c784edd11b8457bd&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=011c01140502cc235e3dfd835ef907113d6619f7&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22919k_wttx%22%2C%22channel_id%22%3A823651911%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%223e5dc9f6e82d658c%22%2C%22expires%22%3A1663021896%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22200.43.59.236%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.13.0
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="SEÑAL ABIERTA NACIONAL", EL TRECE BS. AS.(02)
-https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/CvgEoIMSOSUT17w1TmE1uSgNNkp-Xarp_5Gnt2O-tL007-GOCwJwcITxP9OgOcsXbmBROc7Y-lPzhBPbMoSl5I1mkyAKlVEeHkVq2NxecaAax-qIAcN7qSKMdPxOVNwCX8hXHqHB346A9pkvG8d4-uACuQfC_pEgFMc3cHSipvY5pm1AzQzFs5xVCNELsNB_4nFd8R4AZJwZck0rXjr3j5YYHUE3Tdh5ytxpYK45QcesKuHV1A9bIk-LB1Xn6wtBXLQJojzgwNjZCbl28ZYfw8heuXJ-gXQi3YopV5Su9AcObiV4mtNWR069NbCWbQKLvJBC9ApiIF0W5TNAWkumrBkI0tiDePQQBCeAknSjKNfXKn9WDCjsYUYoy3QczYNXybXwEAIbjlBH4fnSgVJJNd73NxRZNPFk7Qx22r79TJ4bEvWBCOT_qVA9EVrskKy--Gw621Y5GjhbNaawigQu0JcTTNaSKyIOeXmDwx4YbxYmpAVVQqHanRJ7yFLbR2KX4T_ASDSFVl2BNksLcF6lYAEG9Pt1iYbMJ56EKPypPlwAT53iZggqs_0yokhdrSIq3EL4P5AyXW-Fuk7uRUZWqV-pbyu-_iu4DsGp0-2V548mkgbj4noonkFgV9mcRH__8nkWwn_sC8tqu9G2E_NiIn5STmF2s9aT6ZzJsUPzJXYSXaFcGaO-pNwY5XRTVVoQ2hs5T7BlnqzsrqiZiHwx9O6LYa10fpKbq8b1H7E618xGeoUTQ1_4g3vbHFQ3-pLpCzdT6NLSaITJyC5qD5_5hVZG6BwsRHPW6FxpQ3o_8nCZy4iblpqlsJO_XpCeJ1A9megWvxkb3iWp5IYaDFmtAfULRY6RBEg8dSABKglldS13ZXN0LTIw1QQ.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="SEÑAL ABIERTA NACIONAL", A24 BS. AS.
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663046360/ei/eL4fY8iuJIe-wATHrKSIAQ/ip/200.43.59.236/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeMPp8RSS-FWF2jFaIHlWLFIh16h503kxBwYuJz8FRvYCIQC6LGZVzbMsLBgiK4ffYDksxBaicY2AMpgY-doVdPv_Ig%3D%3D/file/index.m3u8
@@ -87,7 +84,7 @@ https://video-weaver.bue01.hls.ttvnw.net/v1/playlist/Ct8FVVYCPP7Q2gvrs2BWr0t8nRd
 https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="PREMIUMMM", TELEMAX
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 
@@ -127,10 +124,38 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TV
 
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" group-title="SEÑAL ABIERTA NACIONAL", 1HD MUSIC
+https://sc.id-tv.kz/1hd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://bayrestv.com.ar/assets/logo-bayres-tv.png" group-title="SEÑAL ABIERTA NACIONAL", BAYRES TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-id="CineSureno.us" tvg-logo="https://i.imgur.com/0tHU0hC.jpg" group-title="SEÑAL ABIERTA NACIONAL",Cine Sureño (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="CosmosTV.ar" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="SEÑAL ABIERTA NACIONAL",Cosmos TV
+https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
+
+#EXTINF:-1 tvg-id="MundoMas.co" tvg-logo="https://i.imgur.com/CREs19T.png" group-title="SEÑAL ABIERTA NACIONAL",Mundo +
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TopCine.us" tvg-logo="https://i.imgur.com/DFEKx5N.png" group-title="SEÑAL ABIERTA NACIONAL",Top Cine (1080p)
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
+
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HispanTv_logo.svg/512px-HispanTv_logo.svg.png" group-title="SEÑAL ABIERTA NACIONAL",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
+#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
+
+
+#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
 OTROS
 
