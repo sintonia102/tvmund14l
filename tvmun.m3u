@@ -18,19 +18,18 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/to
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 
-#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Río Cuarto
+#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="SEÑAL ABIERTA NACIONAL", RADIO MITRE BS. AS.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032283/ei/e4cfY82VFcXswATGhKqIBA/ip/200.43.59.236/id/H3n0j4i3s9Q.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANKopi4vs-GhyFHHXZUVlTx9DUr0aZRLy4P0oq-inLVxAiEAjRITfAcFW5S66L5C-bdELizBPlfwPVVPEWIHIw7M8SQ%3D/file/index.m3u8
-
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Radiomitre/live
 
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/af37ce7e-6778-42ed-9fd4-c679daadce45.png" group-title="SEÑAL ABIERTA NACIONAL", AIRE DE SANTA FE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663032924/ei/_IkfY5v5Fc_WwwTu2a-wAQ/ip/200.43.59.236/id/U2Mij4K2wXg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALR-AWDBpOSjpOQgCHZ7lEblTzPYzhitb2V5ewsf5U7VAiEAhE1F_qjEckb-kHr7zn2KfCnkeeCFSqoRJ3X9a59oBBw%3D/file/index.m3u8
-
+https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/fae6c7d712f9f97fca54fd29bf34aed1.jpg" group-title="SEÑAL ABIERTA NACIONAL", Radio Rivadavia am630
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663033229/ei/LYsfY4XDMsWCwgSM4ZDwAQ/ip/200.43.59.236/id/RtcBVswLLXs.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgVE5o7BZmVjngfjrbuSCd-f2fyWUI9hM912JMJIub-woCIQDutqU0mzc-IZMtL_K6Oh1giHhkt2HAsb0ZkMUZLmDMAg%3D%3D/file/index.m3u8
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/RadioRivadaviaAM630/live
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="SEÑAL ABIERTA NACIONAL", EL DOCE TV
 http://free.fullspeed.tv/iptv-query?feature=emb_title&streaming-ip=https://www.youtube.com/watch?v=gBbMbqILzXU
@@ -87,10 +86,17 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/SintoniaTV/live
+
+#EXTINF:-1 tvg-logo="data:image/png;base64,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" group-title="NOTICIAS", WALDI PROD. (No funciona siempre)
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/WaldiProducciones/live
+
+
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/493/376/png-transparent-soccer-player-football-player-logo-sport-soccer-grass-sports-equipment-sports.png" group-title="SEÑAL ABIERTA NACIONAL", FUTBOL REGIONAL / ARGENTINO FEDERAL A
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6lfvl1d3Zw57zxVbnbO0EQ/live
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="PREMIUMMM", MUSIC TOP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="SEÑAL ABIERTA NACIONAL", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL 26 BS. AS.
@@ -148,9 +154,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="NOTICIAS", CADENA 3 CBA. (No funciona siempre)
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/cadena3arg/live
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
@@ -163,8 +169,7 @@ OTROS
 
 
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="OTROS", SINTONIA TV
-https://live.admefy.com/live/default/awake_yellow_8a2a2.m3u8
+
 
 
 
@@ -381,98 +386,145 @@ https://edge-live16-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSpor
 
 #EXTINF:-1 tvg-id="1081" tvg-name="Aniplus" tvg-logo="https://www.m3u.cl/logo/1081_Aniplus.png" group-title="ARGENTINA", Aniplus * | AR
 https://stmv1.voxhdnet.com/aniplus/aniplus/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1019" tvg-name="Latino Kids TV" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="ARGENTINA", Latino Kids TV * | UY
 https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="269" tvg-name="Canal 13 San Luis" tvg-logo="https://www.m3u.cl/logo/269_Canal_13_San_Luis.png", Canal 13 San Luis * | AR
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="765" tvg-name="Canal 4 Telecondor" tvg-logo="https://www.m3u.cl/logo/765_Canal_4_Telecondor.png", Canal 4 Telecondor * | AR
 https://streamconex.com:1936/telecondor/telecondor/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="277" tvg-name="Canal XFN" tvg-logo="https://www.m3u.cl/logo/277_Canal_XFN.png", Canal XFN * | AR
 https://streamconex.com:1936/canalxfn/canalxfn/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="219" tvg-name="Crossing TV" tvg-logo="https://www.m3u.cl/logo/219_Crossing_TV.png", Crossing TV * | AR
 https://vivo.solumedia.com:19360/crossing/crossing.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="768" tvg-name="Milennio TV" tvg-logo="https://www.m3u.cl/logo/768_Milennio_TV.png", Milennio TV * | AR
 https://streamconex.com:1936/milenniotv/milenniotv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="767" tvg-name="N24TV" tvg-logo="https://www.m3u.cl/logo/767_N24TV.png", N24TV * | AR
 https://streamconex.com:1936/n24tv/n24tv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="218" tvg-name="Señal Urbana" tvg-logo="https://www.m3u.cl/logo/218_Senal_Urbana.png", Señal Urbana * | AR
 https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1026" tvg-name="Tele Mix" tvg-logo="https://www.m3u.cl/logo/1026_Tele_Mix.png", Tele Mix * | AR
 https://panel.dattalive.com:443/8068/8068/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1010" tvg-name="UNaM Transmedia" tvg-logo="https://www.m3u.cl/logo/1010_UNaM_Transmedia.png", UNaM Transmedia * | AR
 http://192.100.186.53:8090/hls/live.stream.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV * | CL
 https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="4" tvg-name="Retro Plus TV" tvg-logo="https://www.m3u.cl/logo/4_Retro_Plus_TV.png", Retro Plus TV * | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1" tvg-name="Rewind Radio y TV" tvg-logo="https://www.m3u.cl/logo/1_Rewind_Radio_y_TV.png", Rewind Radio y TV * | CL
 https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png", Anime Zone TV | AR
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1110" tvg-name="Fox Kids" tvg-logo="https://www.m3u.cl/logo/1110_Fox_Kids.png", Fox Kids | CL
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="251" tvg-name="13 Max Television" tvg-logo="https://www.m3u.cl/logo/251_13_Max_Television.png", 13 Max Television | AR
 http://coninfo.net:1935/13maxhd/live13maxtvnuevo_720p/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="221" tvg-name="5R TV Santa Fe" tvg-logo="https://www.m3u.cl/logo/221_5R_TV_Santa_Fe.png", 5R TV Santa Fe | AR
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="249" tvg-name="5TV" tvg-logo="https://www.m3u.cl/logo/249_5TV.png", 5TV | AR
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="250" tvg-name="9Link" tvg-logo="https://www.m3u.cl/logo/250_9Link.png", 9Link | AR
 http://www.coninfo.net:1935/9linklive/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="222" tvg-name="Acequia" tvg-logo="https://www.m3u.cl/logo/222_Acequia.png", Acequia | AR
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="252" tvg-name="Aire de Santa Fe" tvg-logo="https://www.m3u.cl/logo/252_Aire_de_Santa_Fe.png", Aire de Santa Fe | AR
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="214" tvg-name="America Tucuman" tvg-logo="https://www.m3u.cl/logo/214_America_Tucuman.png", America Tucuman | AR
 http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="253" tvg-name="Argentinisima Satelital" tvg-logo="https://www.m3u.cl/logo/253_Argentinisima_Satelital.png", Argentinisima Satelital | AR
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_sleng.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1073" tvg-name="ATV Argentina" tvg-logo="https://www.m3u.cl/logo/1073_ATV_Argentina.png", ATV Argentina | AR
 https://5975e06a1f292.streamlock.net:4443/atbargentina/atbargentina/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="215" tvg-name="Azahares Radio Multimedia" tvg-logo="https://www.m3u.cl/logo/215_Azahares_Radio_Multimedia.png", Azahares Radio Multimedia | AR
 http://streamyes.alsolnet.com/azaharesfm/live/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="209" tvg-name="Beat Digital" tvg-logo="https://www.m3u.cl/logo/209_Beat_Digital.png", Beat Digital | AR
 https://5975e06a1f292.streamlock.net:4443/beatvideo/beatvideo/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="224" tvg-name="Cadena 103" tvg-logo="https://www.m3u.cl/logo/224_Cadena_103.png", Cadena 103 | AR
 http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="266" tvg-name="Canal 10" tvg-logo="https://www.m3u.cl/logo/266_Canal_10.png", Canal 10 | AR
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="267" tvg-name="Canal 10 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/267_Canal_10_Mar_del_Plata.png", Canal 10 Mar del Plata | AR
 https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="799" tvg-name="Canal 10 Nortevision" tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg", Canal 10 Nortevision | AR
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="299" tvg-name="Canal 10 Rio Negro" tvg-logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="268" tvg-name="Canal 12 Madryn TV" tvg-logo="https://www.m3u.cl/logo/268_Canal_12_Madryn_TV.png", Canal 12 Madryn TV | AR
 https://5f700d5b2c46f.streamlock.net:443/madryntv/madryntv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="226" tvg-name="Canal 13 Jujuy" tvg-logo="https://www.m3u.cl/logo/226_Canal_13_Jujuy.png", Canal 13 Jujuy | AR
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="227" tvg-name="Canal 13 La Rioja" tvg-logo="https://www.m3u.cl/logo/227_Canal_13_La_Rioja.jpg", Canal 13 La Rioja | AR
 http://arcast.net:1935/mp/mp/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="228" tvg-name="Canal 2 Jujuy" tvg-logo="https://www.m3u.cl/logo/228_Canal_2_Jujuy.png", Canal 2 Jujuy | AR
 http://api.new.livestream.com/accounts/679322/events/3782013/live.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="813" tvg-name="Canal 2 Perico" tvg-logo="https://www.m3u.cl/logo/813_Canal_2_Perico.jpg", Canal 2 Perico | AR
 https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://www.m3u.cl/logo/205_Canal_2_Sanagasta.jpg", Canal 2 Sanagasta | AR
 https://stmvideo1.livecastv.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="229" tvg-name="Canal 20 Villamaria" tvg-logo="https://www.m3u.cl/logo/229_Canal_20_Villamaria.png", Canal 20 Villamaria | AR
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="1057" tvg-name="Canal 21 TV" tvg-logo="https://www.m3u.cl/logo/1057_Canal_21_TV.png", Canal 21 TV | AR
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="230" tvg-name="Canal 22 Buenos Aires" tvg-logo="https://www.m3u.cl/logo/230_Canal_22_Buenos_Aires.jpg", Canal 22 Buenos Aires | AR
 https://5f700d5b2c46f.streamlock.net:443/canal22/canal22/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="271" tvg-name="Canal 26" tvg-logo="https://www.m3u.cl/logo/271_Canal_26.png", Canal 26 | AR
 http://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="776" tvg-name="Canal 3 La Pampa" tvg-logo="https://www.m3u.cl/logo/776_Canal_3_La_Pampa.png", Canal 3 La Pampa | AR
 https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="231" tvg-name="Canal 3 Las Heras" tvg-logo="https://www.m3u.cl/logo/231_Canal_3_Las_Heras.jpg", Canal 3 Las Heras | AR
 https://5975e06a1f292.streamlock.net:4443/canal3/canal3/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="255" tvg-name="Canal 3 Pinamar" tvg-logo="https://www.m3u.cl/logo/255_Canal_3_Pinamar.png", Canal 3 Pinamar | AR
 http://intelintec.com.ar:9090/hls/canal3pinamar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="256" tvg-name="Canal 3 Rosario" tvg-logo="https://www.m3u.cl/logo/256_Canal_3_Rosario.png", Canal 3 Rosario | AR
