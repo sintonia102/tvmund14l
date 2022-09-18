@@ -18,10 +18,6 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/to
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCba3hpU7EFBSk817y9qZkiA/live
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", PRUEBA
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
-
-
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="Undefined",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
@@ -67,7 +63,7 @@ https://usher.ttvnw.net/api/channel/hls/919k_wttx.m3u8?allow_source=true&fast_br
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="SEÑAL ABIERTA NACIONAL", A24 BS. AS.
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1663046360/ei/eL4fY8iuJIe-wATHrKSIAQ/ip/200.43.59.236/id/WIPjYtR2N6s.1/source/yt_live_broadcast/requiressl/yes/tx/24197277/txs/24197275%2C24197276%2C24197277/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgeMPp8RSS-FWF2jFaIHlWLFIh16h503kxBwYuJz8FRvYCIQC6LGZVzbMsLBgiK4ffYDksxBaicY2AMpgY-doVdPv_Ig%3D%3D/file/index.m3u8
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="SEÑAL ABIERTA NACIONAL", TYC SPORTS - SD
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
@@ -91,7 +87,8 @@ https://raw.githubusercontent.com/MachineSystems/archived_m3u8/main/america_hls.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/493/376/png-transparent-soccer-player-football-player-logo-sport-soccer-grass-sports-equipment-sports.png" group-title="SEÑAL ABIERTA NACIONAL", FUTBOL REGIONAL / ARGENTINO FEDERAL A
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UC6lfvl1d3Zw57zxVbnbO0EQ/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Musictop_logo_2016.png" group-title="PREMIUMMM", MUSIC TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
