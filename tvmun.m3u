@@ -36,8 +36,7 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/el
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/640px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEFE CORDOBA
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1663008342~exp=1663184742~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=b9c4abf3d7666ec111438298e12a850a6439f7cf8512b3f9685ea4a309b8fcb1
-
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1663679908~acl=%2f*~data=hdntl~hmac=8f3c84a282da276c458249fe6e8f07453bf199c06cfc9d79e60ca1a3b9f24a2b/canal8cordoba0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL 10 CBA.
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w895462106_b581072.m3u8
