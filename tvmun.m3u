@@ -7,6 +7,9 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/69dc649a7334de33bee4.png" group-title="SEÑAL ABIERTA NACIONAL", DW ESPAÑOL (ALEMANIA)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
+#EXTINF:-1 tvg-logo="---------" group-title="SEÑAL ABIERTA NACIONAL", twitch
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/jhon_carpi
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="SEÑAL ABIERTA NACIONAL", FRANCE 24 (FRANCIA)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
 
