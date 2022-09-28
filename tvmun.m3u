@@ -21,9 +21,6 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/to
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
 
 
-#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
-https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="SEÑAL ABIERTA NACIONAL", RADIO MITRE BS. AS.
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Radiomitre/live
 
@@ -44,10 +41,17 @@ https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL 10 CBA.
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w895462106_b581072.m3u8
 
+#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/Logo-CC-Fav-512x512-2.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL C CBA.
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ccanal
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/Canal_13_R%C3%ADo_Cuarto_%28Logo_2008%29.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL 13 RIO CUARTO
+https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="SEÑAL ABIERTA NACIONAL", CRONICA TV
-https://delivery.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv
 
+#EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
+https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="SEÑAL ABIERTA NACIONAL", EL 9 BS. AS.
 https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e094a0bd-a742-42b9-86ad-64e4029840f2/5.m3u8
@@ -78,8 +82,6 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w932614136.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnx743KuO_16sCMIbEg7Y7Q/live
 
 
-#EXTINF:-1 tvg-logo="https://canalc.com.ar/wp-content/uploads/2021/05/Logo-CC-Fav-512x512-2.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL C CBA.
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Ct8FN4lRksgaPwlQWhwU_vJ8R4ww7f-bmaG3VeGoI0rEap3xSG74nyxwXmi4Ey62vzp0PZL3VUBGfAWzeIxJJXCFBqTXAoEd9JkmJtQyC6kZzqDzwYhSkRktKRtsleOPKBb_fRbvajtVeNlEs44cfhaN3uFJmkiVJHQ9oL6FL-OJa8K-75j5bKhzWj0dN3T3V8e2HwFaFUt71Pxgb_zxEIXhUyticDjZa9KNoswQ6Y50Mp1F3cQmYNPjylU47aO0HvxEtmrQq3j8ZMdtVzCBgCcTbZzyvNZPDLIyCeCTRTPGp85tEmdy029AmQAjieXwUaJgfEHTE2uooMIh-Lx_gEA7HiYiSNJwx6o3CnGjOI9Fjui42E2xY3IfdldDjZfzZ01zyQ5kTxlWTPSqeN1w5am20zmq9SzPyorzbE8IA_cZ4rdsnO2XxX3ObwYFYkri5jmRdiKUeAvmMWfDQWbV4aLFwAKk7Ms4iC9filbCRpnkbkVo2zu_Lma1-Whku2ZNhaaCiWKNJX4ONjEVEyfdEuYx9-u7J492zJ3Zpn0I96MyjWXe6cqO0UzR9OPDJ7fzGKsXgVUm0zfeo43me3sRx87abB_y9yPghE8kx04aVUR5gvmC7NH6s3UkXOuKSybqWNZykv4CGB8vs8ud96oo4TOxrV6dc8CSIHVAuu3diWoffRfcSzvSTyZyaBOzsHgQxNUIAYpbcw0URHw4OC9HD9-ZGcvI86ONOm3DhpwhU-7J1CWdWt9xKfTNYuWZCo5oimvfEH_iL7F8pnvI_fLFWiA56DStv6wLY6OYXQnJjjJXzsPc95GCBvLJRWwDsDAMj_wjTPBR8s0ZhJqkpeNrT1YTa_bSKjX9cPwnL3W9tplkap2VhAiC_E2mm-eaF5XMogi7kaWdKx09xwOpQyyWKraAOCYAH3NlWozx8XHjeaWh5zdz672CA8OUu30A5Ns1hu6PV9d0CFryzfbBOq2dxisjGgyQq24j8w13VUyNIYAgASoJdXMtZWFzdC0xMI8D.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="SEÑAL ABIERTA NACIONAL", AMERICA TV
