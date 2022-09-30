@@ -174,7 +174,7 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user
 
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", YOUNOW
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://api.younow.com/php/api/broadcast/rewind/channelId=7746914/userId=58604921
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.younow.com/THEParkerDavis
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
