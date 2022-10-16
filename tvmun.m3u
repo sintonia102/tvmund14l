@@ -7,8 +7,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://s3.spbtv.com/spbtv-world-production/69dc649a7334de33bee4.png" group-title="SEÑAL ABIERTA NACIONAL", DW ESPAÑOL (ALEMANIA)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="---------" group-title="SEÑAL ABIERTA NACIONAL", twitch
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/jhon_carpi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png" group-title="SEÑAL ABIERTA NACIONAL", FRANCE 24 (FRANCIA)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Espanol/live
@@ -91,21 +89,13 @@ https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cs8FDzKMQOj2NACKvsP7pa_m85p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV (Solo Eventos en Vivo)
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/SintoniaTV/live
 
 --------
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV 02
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV 
 https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/6t_pmmpLtBVgJRb-qP5tHfGaetMv8Bx4qE5hKeMBODh9hNSd1MQBlaJq0BnkNyi6I6aBpKJzojJdg7V2BEGu0g/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV 02 480sd
-https://vsd139.mycdn.me/hls/2803104287457.m3u8/sig/_q5EfcmLUGM/expires/1664555494218/srcIp/200.43.59.236/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3745742528225/2803104287457_medium/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV 03 AUTO
-https://vsd95.mycdn.me/hls/2824054704865.m3u8/sig/g_H73bxEUv8/expires/1665020069611/srcIp/200.43.59.236/clientType/1/srcAg/UNKNOWN_ANDROID/mid/3764819336929/video.m3u8
 
 
 --------
@@ -176,13 +166,12 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="NOTICIAS", CADENA 3 CBA. (No funciona siempre)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="SEÑAL ABIERTA NACIONAL", CADENA 3 CBA. (No funciona siempre)
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/cadena3arg/live
 
+#EXTINF:-1 tvg-logo="https://scontent.frcu4-1.fna.fbcdn.net/v/t39.30808-6/309495472_533305215463139_5886413405258244681_n.png?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFtDx7PJmbt4XRxhONIT03bkneZUpRBt_-Sd5lSlEG3_zYJvNJWDkTLSqstudFZxt9LqEGwu4UpGzXyH4gwUMDg&_nc_ohc=RhRlxby0jYEAX-O9JTp&tn=3jWiQnghnwIxmzoW&_nc_ht=scontent.frcu4-1.fna&oh=00_AT8o_KRNQOY7YiHK_agTLQQyZ3o2b9q62qRnejL4AeLCEQ&oe=63518CE4" group-title="SEÑAL ABIERTA NACIONAL", EL BARCO MULTIMEDIA - LABORDE
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ELBARCOmultimedia
 
-
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", YOUNOW
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.younow.com/THEParkerDavis
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
