@@ -56,7 +56,7 @@ https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEFE BS. AS.
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/TelefeHD/SA_Live_dash_enc_2A/TelefeHD-avc1_1499968=10002-scale=30000-7384555581001.mp4
+https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1666218842~exp=1666226042~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=1900002c7209f9b66a2c12d1b8aaf4a60baf2f1720ef20fb89e47d273c5143fd
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_de_eltrece_lanzado_en_2016.png" group-title="SEÑAL ABIERTA NACIONAL", EL TRECE BS. AS.
