@@ -52,9 +52,6 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cr
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="SEÑAL ABIERTA NACIONAL", EL 9 BS. AS.
-https://2a1773fcc0c94a639b422d1cf7ba14b7.mediatailor.us-east-1.amazonaws.com/v1/manifest/4c8323052bc3dbd9aa2eba0b638d8495561e8377/JW-Octubre-Channel09/e094a0bd-a742-42b9-86ad-64e4029840f2/5.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEFE BS. AS.
 https://telefeappmitelefe1.akamaized.net/hls/live/2037985/appmitelefe/TOK/master.m3u8?hdnea=st=1666218842~exp=1666226042~acl=/hls/live/2037985/appmitelefe/TOK/*~hmac=1900002c7209f9b66a2c12d1b8aaf4a60baf2f1720ef20fb89e47d273c5143fd
@@ -84,7 +81,8 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="SEÑAL ABIERTA NACIONAL", AMERICA TV
-https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/Cs8FDzKMQOj2NACKvsP7pa_m85pZzvA_8kOW8DNgPVVDWo20CscAeNvVY60iDwHwg5yWfUk_xpkTU57RX1YiCc3tNU0NgUl4JlRWe_VzsGxUhq0LrDgqDQL6Txa9bqyIz2PTkhs1ZV8hOOH5ynRewGuJmb_qAMA_bAqEJ_rqp5t6-k43gqsTYftWjbyCXCcGg-9PxjJrX0wwVHmRvMFrFij20TrViA8aI9xdq4jo6M7MqLfh_mHH5RFiwAD0FhUfshEeqlXbiLBDWyfXKsqfmfiENFybCCTksghMQJlhVywGnPIFuhVR1089ViAhrvgMA9cNsaPyeLUO_bzIPbtvC9Njd6QWi-7pFfBlsij01O3m_hK2NiMfz-GoAc65plXyzs9GjZIi4rVKJ7u8Mrp6wkH85HW8QqFMP-0b6Bl1HE0RSdO7ZK8obhl0HQw6I2nVXdbr-VcioQnZxrogyORyWMBs36EyedtS_-lsJi0_F4_SxHq-PIURxx_G8Ke-y_dlH43m-mZ0b8gz0zEjg9WWKkgd-YpCiBx1VsqjkAOx6N4nKYOhG1sAIHAaES5NZa4udkcBz3tDt_QSi-HTzWSU2a15NnB6OVgEvtmgRZ9ffcyHpVlnF_X0qV6Gx1vuvtLN7v4t5uSPo3SCysLPmhOwmFQuRSrIchcjj9-q1bP0_eV2S1SfiTvjKRqH_YH30baWoI2nfI9TNQmZGluMyq2Uc2S8Qjm-nN84GEiuW5yqWITvTQz0tUrrtssDKVFcVo-PY97seviZvodLjkn3VKgwJi0Ugm6U99WsZ36HGLl1ddZJstORxDL8K2piViJCzh56UQ9plvRHWPy2PFkG0Uq2Z5dCbstusv6vIAF_ijNwgOUHzAgsu62ut0lKyP6SQYk1d3fgh8sWpmplXVfCwKjLxCQDBBL3Z1Zk3Tu4kmpeCU23Lc9pqvuPtc64XItCD5ABf1gaDL5I8-GR9l6Ir79qMyABKglldS13ZXN0LTIw2gQ.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2e79fe42-ff1f-4920-9dcd-693d2908dbe3:SCL/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
