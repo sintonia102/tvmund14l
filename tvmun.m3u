@@ -34,7 +34,8 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/el
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Telefe_C%C3%B3rdoba_%282018%29.png/640px-Telefe_C%C3%B3rdoba_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEFE CORDOBA
-https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/hdntl=exp=1663679908~acl=%2f*~data=hdntl~hmac=8f3c84a282da276c458249fe6e8f07453bf199c06cfc9d79e60ca1a3b9f24a2b/canal8cordoba0.m3u8
+https://telefecanal3.akamaized.net/hls/live/2040462/canal8cordoba/TOK/master.m3u8?hdnea=st=1666219502~exp=1666395902~acl=/hls/live/2040462/canal8cordoba/TOK/*~hmac=a3f0aa008606ee8a558dde8ec1411a44e5c7f9ab7c8276df21d10aa6d5639464
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Canal_10_C%C3%B3rdoba_%28Logo_2018%29.png" group-title="SEÑAL ABIERTA NACIONAL", CANAL 10 CBA.
 https://stream.arcast.live/canal10/ngrp:canal10_all/chunklist_w895462106_b581072.m3u8
@@ -46,7 +47,7 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ccanal
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="SEÑAL ABIERTA NACIONAL", CRONICA TV
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
 
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
