@@ -87,6 +87,7 @@ https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/2e79fe4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Telemax_Argentina_%282018%29.png/800px-Telemax_Argentina_%282018%29.png" group-title="SEÑAL ABIERTA NACIONAL", TELEMAX
 https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
+https://live-edge01.telecentro.net.ar/live/tlx.smil/televisionlibre.net.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV (Solo Eventos en Vivo)
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/SintoniaTV/live
@@ -134,6 +135,11 @@ https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/TEC_TV_-_2014_logo.png" group-title="SEÑAL ABIERTA NACIONAL", TEC TV
 https://tv.initium.net.ar:3939/live/tectvmainlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.latina101.com.ar/images/logo.png" group-title="SEÑAL ABIERTA NACIONAL", LATINA TV
+https://live-edge01.telecentro.net.ar/live/smil:rltn.smil/chunklist_w581885420_b1428000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/tierra-mia-7439.webp" group-title="SEÑAL ABIERTA NACIONAL", TIERRA MIA TV
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w2088302658_b1864000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" group-title="SEÑAL ABIERTA NACIONAL", TV PUBLICA
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
