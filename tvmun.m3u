@@ -172,7 +172,11 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ELBARCOmultimedia
 
 
-#EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RiutdJMP76YzmI62-Ai3FJFEvzZJyHsWFhUoz7qwtps-CJ87qamZqFFTDCgFIFMR5g" group-title="NOTICIAS", LA 100 FM
+https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/La100/live
+
+
+
 
 #EXTINF:-1 tvg-logo="-----------" group-title="NOTICIAS", ------
 
