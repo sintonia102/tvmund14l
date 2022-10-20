@@ -165,14 +165,14 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 https://live1.presstv.ir/live/hispan.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="SEÑAL ABIERTA NACIONAL", CADENA 3 CBA. (No funciona siempre)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Cadena_3.png" group-title="SEÑAL ABIERTA NACIONAL", CADENA 3 CBA. 
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/user/cadena3arg/live
 
 #EXTINF:-1 tvg-logo="https://scontent.frcu4-1.fna.fbcdn.net/v/t39.30808-6/309495472_533305215463139_5886413405258244681_n.png?_nc_cat=101&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeFtDx7PJmbt4XRxhONIT03bkneZUpRBt_-Sd5lSlEG3_zYJvNJWDkTLSqstudFZxt9LqEGwu4UpGzXyH4gwUMDg&_nc_ohc=RhRlxby0jYEAX-O9JTp&tn=3jWiQnghnwIxmzoW&_nc_ht=scontent.frcu4-1.fna&oh=00_AT8o_KRNQOY7YiHK_agTLQQyZ3o2b9q62qRnejL4AeLCEQ&oe=63518CE4" group-title="SEÑAL ABIERTA NACIONAL", EL BARCO MULTIMEDIA - LABORDE
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/ELBARCOmultimedia
 
 
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RiutdJMP76YzmI62-Ai3FJFEvzZJyHsWFhUoz7qwtps-CJ87qamZqFFTDCgFIFMR5g" group-title="NOTICIAS", LA 100 FM
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/RiutdJMP76YzmI62-Ai3FJFEvzZJyHsWFhUoz7qwtps-CJ87qamZqFFTDCgFIFMR5g" group-title="SEÑAL ABIERTA NACIONAL", LA 100 FM
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/La100/live
 
 
