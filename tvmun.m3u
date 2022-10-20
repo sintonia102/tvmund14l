@@ -94,9 +94,7 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Si
 --------
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-M42vjxNnCOU/X2y5S5SfqlI/AAAAAAABFuA/GKYm8QiQ5g0B_9kB8vhssCjvSbMjaVuPQCK4BGAYYCw/w387/SINTONIA%2B102.5%2B-%2B1280X1280.jpg" group-title="SEÑAL ABIERTA NACIONAL", SINTONIA TV 
-https://prod-ec-sa-east-1.video.pscp.tv/Transcoding/v1/hls/6t_pmmpLtBVgJRb-qP5tHfGaetMv8Bx4qE5hKeMBODh9hNSd1MQBlaJq0BnkNyi6I6aBpKJzojJdg7V2BEGu0g/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
-
-
+https://prod-fastly-sa-east-1.video.pscp.tv/Transcoding/v1/hls/N55GPcvDMtm5PnSkjeZOkZAH09RzIm8DYLSFqTiqbZf78kDovwiKexIzHc_3f6la3qAIM-VXRwUqCCGXnS7TJg/non_transcode/sa-east-1/periscope-replay-direct-prod-sa-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 --------
 
 
