@@ -28,10 +28,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", LN+
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/LaNacionMas/live
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675216160/ei/wHDZY_O4D4aQ5gSu_47QBQ/ip/200.43.59.236/id/6_d4yYpCqsk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOeYfUM7ue5hYhxA-wtR_umqSj3cNFmq_-jb39rNpK-yAiEApoiMZk3KcA96zTkQNSaSxE_br0aTdTQaCQqCFHSkDXU%3D/file/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", LN+ PROVISORIO
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://youtu.be/IOSVORAZnRY
+https://www.youtube.com/@lanacion/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="SEÑAL ABIERTA NACIONAL", RADIO MITRE BS. AS.
 https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Radiomitre/live
