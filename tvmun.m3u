@@ -29,23 +29,20 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANC
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Tn_logo12.png" group-title="SEÑAL ABIERTA NACIONAL", TN 
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/todonoticias/live
+https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", LN+
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1675216160/ei/wHDZY_O4D4aQ5gSu_47QBQ/ip/200.43.59.236/id/6_d4yYpCqsk.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOeYfUM7ue5hYhxA-wtR_umqSj3cNFmq_-jb39rNpK-yAiEApoiMZk3KcA96zTkQNSaSxE_br0aTdTQaCQqCFHSkDXU%3D/file/index.m3u8
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCba3hpU7EFBSk817y9qZkiA.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="SEÑAL ABIERTA NACIONAL", LN+ PROVISORIO
-https://www.youtube.com/@lanacion/live
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Logo_Mitre_SA.svg/1200px-Logo_Mitre_SA.svg.png" group-title="SEÑAL ABIERTA NACIONAL", RADIO MITRE BS. AS.
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/Radiomitre/live
+https://g4.vxral-hor.transport.edge-access.net/a10/ngrp:MITREHD-10002_all/MITREHD-10002_540p.m3u8
 
 #EXTINF:-1 tvg-logo="https://public.flourish.studio/uploads/af37ce7e-6778-42ed-9fd4-c679daadce45.png" group-title="SEÑAL ABIERTA NACIONAL", AIRE DE SANTA FE
 https://sc1.stweb.tv/airedigital/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/object-images/fae6c7d712f9f97fca54fd29bf34aed1.jpg" group-title="SEÑAL ABIERTA NACIONAL", Radio Rivadavia am630
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/RadioRivadaviaAM630/live
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCLAj5TzCrNbqe3LosSKHLcQ.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/El_doce_tv_cba_logo.png" group-title="SEÑAL ABIERTA NACIONAL", EL DOCE TV
@@ -66,7 +63,7 @@ https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.twitch.tv/ccanal
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fb/Cr%C3%B3nica_TV_logotipo_%282016%29.png" group-title="SEÑAL ABIERTA NACIONAL", CRONICA TV
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/cronicatv/live
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCT7KFGv6s2a-rh2Jq8ZdM1g.m3u8
 
 #EXTINF:-1 tvg-id="Canal9RioCuarto.ar" tvg-logo="https://i2.paste.pics/a6e7d4bb67f0a6601e6db436a52e08dc.png" group-title="SEÑAL ABIERTA NACIONAL",Canal 9 Río Cuarto
 https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
@@ -84,7 +81,7 @@ https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" group-title="SEÑAL ABIERTA NACIONAL", A24 BS. AS.
-https://linkv.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/A24com/live
+https://corsproxy.io/?http://heroem3u.epizy.com/youtube/UCR9120YBAqMfntqgRTKmkjQ.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/1280px-TyC_Sports_logo.svg.png" group-title="SEÑAL ABIERTA NACIONAL", TYC SPORTS - SD
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
