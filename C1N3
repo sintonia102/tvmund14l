@@ -1,3 +1,4 @@
+
 PELICULAS RUNTIME
 
 
@@ -8,5 +9,13 @@ PELICULAS RUNTIME
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/f5298574f21a73a63fe8e27239e8f0489c095a2ec0300d00dc4c723231135559._V_SX300_.jpg" group-title="DRAMA",EL DESPRECIO (the shunning) 
 https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_pfwe49eu/v/1/pv/1/ev/12/flavorId/1_0z72wltl/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9wZndlNDlldS92LzEvcHYvMS9ldi8xMioiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODEwMDY5NDJ9fX1dfQ__&Signature=CRHfwSpUlCb2W0c4HsAF1UFGUMbkahWfBE5xjOqLzp6ImYnk0~m~IUgdyZ5DjUIoBbqvy6DbNxZkIS8yGpTW0LJZXIzSraDavlLQSzEx9GO8Bg-h1PfCoFbSacYhiE2ONJU~QdbPT6ZLwiRGUx3Ggysj2DG~-uYkpe120QigjooSBS-A5hJ7gK4K0p1vel8WXGh6nkq-1AViKNW3JSzF-YVZ1ZFqPMhUMdwTmGgIudjB-1qiwB0rjLBzCN-QKqEAMCAmQZAcoStekRzOu8Aq6FT5~WKVkrG4kG7~foycZqEuQHwpWAq5WhOhBDmt7EpaNGtcr4jZM93iIKDdXqnqIw__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/a9af23150c1e18165b8e1b188ccc36fca7637c159212df534a587554b70d6207._UY500_UX667_RI_V_TTW_.jpg" group-title="ACCION, DRAMA, AVENTURA",CATASTROFE HELADA
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_awgfme4l/v/1/pv/1/ev/11/flavorId/1_4kff54ao/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV9hd2dmbWU0bC92LzEvcHYvMS9ldi8xMSoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2ODEwMTI0NDB9fX1dfQ__&Signature=HeXs6~~~h7Q6JL~SLdngiIlbMjyNia2WSNa5ztGk-9VAAfkqhPJUD0GBvqAxvslU2CdqkoaGBIjYVAvCSI88KJf7xmHh1Tp98xKxv4~l-QIAGmvBqtaaFAteEhpudPkdnUDu-3-ha2xW~uFjzCQPB-p~Fs~A2iEHdKYBTMvBrH3YPYT9vmpUr0wa4CVo-suXgMUcKgr0tqwnrMTg0Le~3Kag6CcsMrSq--9Q-lzzJLyGdTYSt038LItWzaQ7ZzHc1AG5S3FkpqE4NN4HJ8N9as7ISR3Lr79eHB9ZQWDA46LF-k9c4veRHtLorUJHuY8z71clwakqmqeqxgXRCafIUQ__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+
+
+
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/7dc60aa0c3539fb966fe2df504666c3ebbb08f2389357f38230a633605bdaab0._UY500_UX667_RI_V_TTW_.png" group-title="COMEDIA, DRAMA",PERSIGUIENDO A BETTY
+https://cfvod.kaltura.com/scf/hls/p/513551/sp/51355100/serveFlavor/entryId/1_96qhkqa2/v/11/pv/1/ev/21/flavorId/1_vxppw0uu/name/a.mp4/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvaGxzL3AvNTEzNTUxL3NwLzUxMzU1MTAwL3NlcnZlRmxhdm9yL2VudHJ5SWQvMV85NnFoa3FhMi92LzExL3B2LzEvZXYvMjEqIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjgxMDEyODQ1fX19XX0_&Signature=Do3IJ8t4eoqZbfP8zQFghFq~QfUsci2i6HegXjYyG3zMevSVi1SPYEY1RZ~ndsg84rM9dGrQ3VJ7v6~ihVE8vNyXs867DYmDHfRaTMn028ghPSWKV1hx2v6w-S9K8j7WKwcLyE3o8pgNQOC-LAwdCtj0yrkFJ~p7~D2UpOUnDa8rW8zU8lQuUWwpKG6x1Or0bXuKaG2uKaZrIbB3Y56GqNkYYtFThCvQZxB0BhbXyBNyVLIt7pJiEWe9RJTcisFQTrBUWOC~m2Fs3R~mIE4EoLZnmZaSZkRkSBBGCj~vaML0MONb3GH~LXkGQ-WlDmmbs0SDBqbLIKiAyVXVSvcoXA__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
 
 #EXTINF:-1 tvg-logo="------" group-title="----",-----
