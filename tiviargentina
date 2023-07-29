@@ -634,6 +634,10 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0144
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KinYEXyV-XM/YBwbhy97W3I/AAAAAAABMJY/zFszqUO11ngWhwtzgRNXasC_NIppoCRQACLcBGAsYHQ/s640/0029_6.png" group-title="CORDOBA", SINTONIA MONTE MAIZ
 https://playlist.wasd.tv/live/1691517/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ Opc.2
+https://cdn.wasd.tv/live/1691517/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1065936054329507842/qisXOk-J_400x400.jpg" group-title="SALTA", TELEFE SALTA
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0217
 
