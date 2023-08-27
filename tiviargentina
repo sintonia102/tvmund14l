@@ -1934,6 +1934,19 @@ https://live.obslivestream.com/cdeportivo/index.m3u8
 https://cdnhd.iblups.com/hls/Qzfdy1OvHt.m3u8
 
 
+
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/12-1.jpg" group-title="CINE", Xtrema Cine Acción (268p)
+https://stmv1.cnarlatam.com/cineaccion/cineaccion/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://xtrematv.com/wp-content/uploads/2023/05/19-1.jpg" group-title="CINE", Xtrema Cine Asia (268p)
+https://stmv1.cnarlatam.com/cineasia/cineasia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/553ae67ca541fdc09dd6f918351f04be.webp" group-title="CINE", Xtrema Cine Comedy (344p)
+https://stmv1.cnarlatam.com/cinecomedia/cinecomedia/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="####" group-title="CINE", #########
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VNPbHtC/vix.png" group-title="CINE",Golden
 https://linear-406.frequency.stream/dist/vix/406/hls/master/playlist.m3u8
 
