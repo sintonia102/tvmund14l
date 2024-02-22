@@ -632,7 +632,7 @@ https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 https://vivo.solumedia.com:19360/sintonia/sintonia.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ Opc.2
-https://playlist.wasd.tv/live/1691517/tracks-v1a1/mono.m3u8 
+https://stream-cdn-iad.vaughnsoft.net/play/live_sintonia.flv
 
 #EXTINF:-1 tvg-logo="###################" group-title="CORDOBA", #######
 ############################
