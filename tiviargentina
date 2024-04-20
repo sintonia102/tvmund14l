@@ -1226,7 +1226,7 @@ http://204.199.3.2/.m3u8
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
-https://panel.dattalive.com/8138/8138/playlist.m3u8
+https://cdn.sensa.com.ar/output/COR/CaroyaCoopH/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
@@ -1238,7 +1238,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/gualeguay/gualeguay/playlist.m3u8
 https://streamyes.alsolnet.com/radiozona/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTgHZgj0j0s3y22Xu7XjBqMSGaRJJHIdGmkrg&usqp=CAU" group-title="CORDOBA", CANAL 50 MORTEROS
-https://coopmorteros.online/canal50/vivo.m3u8
+https://online.coopmorteros.coop/canal50/vivo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.lasrosas.com.ar/portal/wp-content/uploads/gif-radio-3.gif" group-title="CORDOBA", LAS ROSAS 105.5 CORDOBA
 https://videostream.shockmedia.com.ar:19360/lasrosasonline/lasrosasonline.m3u8
@@ -1329,7 +1329,7 @@ https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="CORDOBA", TELEDIGITAL PASCANAS CORDOBA
-https://videohd.live:19360/8014/8014.m3u8
+https://videohd.live:19360/8054/8054.m3u8
 
 #EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="CORDOBA", CANAL 20 VILLA MARIA CORDOBA
 https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
