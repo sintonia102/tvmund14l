@@ -1226,7 +1226,7 @@ http://204.199.3.2/.m3u8
 http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
-https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_1_1400/playlist.m3u8
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
 https://stream.arcast.live/quatro/quatro/playlist.m3u8
