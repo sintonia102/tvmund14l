@@ -634,8 +634,8 @@ https://vivo.solumedia.com:19360/sintonia/sintonia.m3u8
 #EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ Opc.2
 https://stream-cdn-iad.vaughnsoft.net/play/live_sintonia.flv
 
-#EXTINF:-1 tvg-logo="###################" group-title="CORDOBA", #######
-############################
+#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/23/22/03/360_F_523220323_selqGe2jtAsqAXr3zqrqk2LQP9C1MT4n.jpg" group-title="CORDOBA", CASA
+rtsp://admin:HDNNJK@192.168.1.2:554/ch0_0.264
 
 #EXTINF:-1 tvg-logo="###################" group-title="CORDOBA", #######
 ############################
