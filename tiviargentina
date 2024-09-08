@@ -628,14 +628,12 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0082
 #EXTINF:-1 tvg-id="TelefeCordoba.ar" tvg-logo="https://pbs.twimg.com/profile_images/1065066731041931265/1tP54glH_400x400.jpg" group-title="CORDOBA", TELEFE CORDOBA
 https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwgX7hAJhaLeSfYDbbFZu0qhTmNjfztSsgsJcnqHj1LN-RCmNL-a9vt2RR6OtSZZuW08pli9u2-P8LeQXoY1hm18vbhZ2yOtzKR-alSVBAE6gErSXsC21iNAcyCuV7vHcIIz-Sanko7s5aA-vVCQz5-dl7yJsyicu0ogdx8s0yfDlUzyvseF4G55Sgl6-S/s1600/Cover%20Sintonia.gif" group-title="CORDOBA", SINTONIA TV MONTE MAIZ
-https://vivo.solumedia.com:19360/sintonia/sintonia.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ Opc.2
+#EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ
 https://stream-cdn-iad.vaughnsoft.net/play/live_sintonia.flv
 
 #EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/23/22/03/360_F_523220323_selqGe2jtAsqAXr3zqrqk2LQP9C1MT4n.jpg" group-title="CORDOBA", CASA
-rtsp://admin:HDNNJK@192.168.1.2:554/ch0_0.264
+rtsp://admin:HDNNJK@192.168.1.2:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_2
 
 #EXTINF:-1 tvg-logo="###################" group-title="CORDOBA", #######
 ############################
