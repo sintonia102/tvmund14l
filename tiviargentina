@@ -632,8 +632,8 @@ https://ythls.onrender.com/channel/UC3OQ66wEJaOPHK25IBdWR_g.m3u8
 #EXTINF:-1 tvg-logo="https://www.enlaradio.com.ar/adjuntos/image/int/elr-sintonia-cba.jpg" group-title="CORDOBA", SINTONIA MONTE MAIZ
 https://stream-cdn-iad.vaughnsoft.net/play/live_sintonia.flv
 
-#EXTINF:-1 tvg-logo="https://t4.ftcdn.net/jpg/05/23/22/03/360_F_523220323_selqGe2jtAsqAXr3zqrqk2LQP9C1MT4n.jpg" group-title="CORDOBA", CASA
-rtsp://admin:HDNNJK@192.168.1.2:554/Streaming/Channels/101?transportmode=unicast&profile=Profile_2
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgcCFIh7OMsacYzWisMTcw4y0K10E6jDkiRQtl_aPdm1oldOFkdCiGZYgvAZ6c4gPS1GEUh6uxwdEZ34Z3uT3-d9fyKoweapYulsxSVuc9B1-CDfwGzdAmIAUYxbi3ypqXHWXExRJqlOSjjJ01XxLO3f1S5ymnKOzsj0aEVJ72FkW8lKHbsKu0FLKh0oQDX/s16000/sintonia%20radio.png" group-title="CORDOBA", RADIO SINTONIA 102.5
+https://stream.radioservice.org/8046/stream
 
 #EXTINF:-1 tvg-logo="###################" group-title="CORDOBA", #######
 ############################
