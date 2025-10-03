@@ -647,6 +647,10 @@ https://videostream.shockmedia.com.ar:19360/sintoniatv/sintoniatv.m3u8
 https://sintoniatv.nhuber.duckdns.org/memfs/54d4aed7-dddf-4d3f-a162-46b0805852ee.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://www.svision.com.ar/wp-content/uploads/2024/06/Recurso-1@2x.png" group-title="CORDOBA", S Vision Radio 105.1 Santa Rosa Calamuchita
+http://179.0.241.23/hls/cba12/cba12.m3u8
+
+
 
 
 
