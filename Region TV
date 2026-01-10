@@ -1,0 +1,43 @@
+#EXTM3U   
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPn5J0KP_KL7_y-GsCCCPL7DTX8azt_K0Yag&s" group-title="CORDOBA", RADIO SINTONIA 102.5
+https://stream.radioservice.org/8046/stream
+
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEhMoMl1MfiTQ5czYiFKtW3wH2cKzqBqd0G8rOQrqk9_WeANM06ivLQ5bPoPpCtXHTI2gqAHmvCFRqS9q38eFtMiYNMRDTgZ_Ce2Y4RZo6ybLFm57Q7fM9wPNdTdneGOXPVKApsC1OHMoNdwXeH6MCLsm3cWqMzRmKuCNIf7zs_Xyex9xw2-JE5wdqCm5Ce4=w300" group-title="CORDOBA", Sintonia TV local*
+https://sintoniatv.nhuber.duckdns.org/memfs/a6a33431-2aa6-4665-a91f-357b5e48d27c.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoDAkTIGwgaig3f4HkHTjAaIemRKvSDQoeJw&s" group-title="CORDOBA", Sintonia TV 2*
+https://videostream.shockmedia.com.ar:19360/sintoniatv/sintoniatv.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.svision.com.ar/wp-content/uploads/2024/06/Recurso-1@2x.png" group-title="CORDOBA", Canal 2 S Vision - Monte Maíz
+http://179.0.241.23/hls/cba12/cba12.m3u8
+
+#EXTINF:-1 tvg-logo="http://tvcoop.tv/assets/img/logoweb.png" group-title="CORDOBA", CANAL COOP JUSTINIANO POSSE
+http://csc-nod-edge01.sensa.com.ar/output/NDS/tvcoopjpH/track_0_2500/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.canalcoop.com.ar/images/interesgeneral/canalcoop.png" group-title="CORDOBA", CANAL COOP JESUS MARIA CORDOBA
+https://smt-usr-edge02.sensa.com.ar/output/COR/CaroyaCoopH/track_0_3000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwniwA0CrY8LRz5j9u7W--3nz-xTH9Rx06LJdwyrtyA=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", CANAL 9 RIO CUARTO
+https://streamcasthd.com:1936/canal9riocuartotv/canal9riocuartotv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.radiocanal.com.ar/imagenes/estructura/canal4.png" group-title="CORDOBA", CANAL 4 SAN FRANCISCO CORDOBA
+http://204.199.3.2/.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-1phsO-ubizU/Xjs7vHKVggI/AAAAAAAAvno/rT7oXAbNr_gKAdV3lKdf9tJjftYLEG9-wCK8BGAsYHg/s0/2020-02-05.png" group-title="CORDOBA", QUATRO TV RIO CUARTO
+https://stream.arcast.live/quatro/quatro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhad9VE0V5G3oA7H10-eR5SScS7s9LlBe8vJLjRpg=s900-c-k-c0x00ffffff-no-rj" group-title="CORDOBA", IMAGEN REGIONAL ALEJO LEDESMA CORDOBA
+https://videohd.live:19360/8078/8078.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://uniteve.com.ar/wp-content/themes/uniteve-2017/img/header-logo.png" group-title="CORDOBA", UNITEVE VILLA MARIA CORDOBA
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2021/03/teledigitalpascanas.jpg" group-title="CORDOBA", TELEDIGITAL PASCANAS CORDOBA
+https://videohd.live:19360/8054/8054.m3u8
+
+#EXTINF:-1 tvg-id="Canal20VillaMaria.ar" tvg-logo="https://4.bp.blogspot.com/-j9I0buhulss/VxrWQ9llwXI/AAAAAAAACtQ/L2fSLfI0ujcLQbrzCfw8rX0dx4X1P2jvACLcB/s1600/canal-20-villa-maria-en-vivo.jpg" group-title="CORDOBA", CANAL 20 VILLA MARIA CORDOBA
+https://cronos.aldeaglobal.net.ar/hls/canal20.m3u8
